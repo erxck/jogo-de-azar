@@ -16,7 +16,10 @@ O jogo consiste em ter um número de pontos para ganhar, caso contrario você pe
 
 The game consists of having a number of points to win, otherwise you lose.
 
-If you roll 7 or 11 on the first roll you win.
-If you roll 2, 3 and 12 on the first roll you lose.
-If you get other numbers you continue.
-If you continue, you win if the next number is equal to your points and you lose if you get the number 7.
+* If you roll 7 or 11 on the first roll you win.
+
+* If you roll 2, 3 and 12 on the first roll you lose.
+
+* If you get other numbers you continue.
+
+* If you continue, you win if the next number is equal to your points and you lose if you get the number 7.
